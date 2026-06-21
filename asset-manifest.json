@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/aconnexion-tech-website/static/css/main.4851873a.css",
+    "main.js": "/aconnexion-tech-website/static/js/main.41c0f626.js",
+    "static/js/649.07a6f3bb.chunk.js": "/aconnexion-tech-website/static/js/649.07a6f3bb.chunk.js",
+    "static/js/992.67f35416.chunk.js": "/aconnexion-tech-website/static/js/992.67f35416.chunk.js",
+    "static/js/509.0b8d9e78.chunk.js": "/aconnexion-tech-website/static/js/509.0b8d9e78.chunk.js",
+    "static/js/70.5310f03d.chunk.js": "/aconnexion-tech-website/static/js/70.5310f03d.chunk.js",
+    "static/js/369.245653c0.chunk.js": "/aconnexion-tech-website/static/js/369.245653c0.chunk.js",
+    "index.html": "/aconnexion-tech-website/index.html",
+    "main.4851873a.css.map": "/aconnexion-tech-website/static/css/main.4851873a.css.map",
+    "main.41c0f626.js.map": "/aconnexion-tech-website/static/js/main.41c0f626.js.map",
+    "649.07a6f3bb.chunk.js.map": "/aconnexion-tech-website/static/js/649.07a6f3bb.chunk.js.map",
+    "992.67f35416.chunk.js.map": "/aconnexion-tech-website/static/js/992.67f35416.chunk.js.map",
+    "509.0b8d9e78.chunk.js.map": "/aconnexion-tech-website/static/js/509.0b8d9e78.chunk.js.map",
+    "70.5310f03d.chunk.js.map": "/aconnexion-tech-website/static/js/70.5310f03d.chunk.js.map",
+    "369.245653c0.chunk.js.map": "/aconnexion-tech-website/static/js/369.245653c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4851873a.css",
+    "static/js/main.41c0f626.js"
+  ]
+}
